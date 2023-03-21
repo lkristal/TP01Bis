@@ -1,0 +1,15 @@
+C:\Leo\ORT\2023\TP01Bis\bin\Debug\net6.0\tp01bis.exe
+C:\Leo\ORT\2023\TP01Bis\bin\Debug\net6.0\tp01bis.deps.json
+C:\Leo\ORT\2023\TP01Bis\bin\Debug\net6.0\tp01bis.runtimeconfig.json
+C:\Leo\ORT\2023\TP01Bis\bin\Debug\net6.0\tp01bis.dll
+C:\Leo\ORT\2023\TP01Bis\bin\Debug\net6.0\tp01bis.pdb
+C:\Leo\ORT\2023\TP01Bis\obj\Debug\net6.0\tp01bis.csproj.AssemblyReference.cache
+C:\Leo\ORT\2023\TP01Bis\obj\Debug\net6.0\tp01bis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leo\ORT\2023\TP01Bis\obj\Debug\net6.0\tp01bis.AssemblyInfoInputs.cache
+C:\Leo\ORT\2023\TP01Bis\obj\Debug\net6.0\tp01bis.AssemblyInfo.cs
+C:\Leo\ORT\2023\TP01Bis\obj\Debug\net6.0\tp01bis.csproj.CoreCompileInputs.cache
+C:\Leo\ORT\2023\TP01Bis\obj\Debug\net6.0\tp01bis.dll
+C:\Leo\ORT\2023\TP01Bis\obj\Debug\net6.0\refint\tp01bis.dll
+C:\Leo\ORT\2023\TP01Bis\obj\Debug\net6.0\tp01bis.pdb
+C:\Leo\ORT\2023\TP01Bis\obj\Debug\net6.0\tp01bis.genruntimeconfig.cache
+C:\Leo\ORT\2023\TP01Bis\obj\Debug\net6.0\ref\tp01bis.dll
